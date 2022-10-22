@@ -25,7 +25,10 @@ a {
 a:visited {
     color: black;
 }
-
+a:hover{
+    text-decoration: underline 0.5ch white;
+    cursor: pointer;
+}
 h1,h2,h3,p{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
