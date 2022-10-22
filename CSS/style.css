@@ -7,6 +7,24 @@ img{
     
 }
 
+.nav {
+    font-weight: bold;
+    list-style: none;
+    display: flex;
+    border: 0.5ch;
+    border-style: solid;
+
+}
+
+.nav-button {
+    margin-right: 5%; 
+}
+a {
+    color: black;
+}
+a:visited {
+    color: black;
+}
 
 h1,h2,h3,p{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
