@@ -50,3 +50,9 @@ h3{
 p{
     width: auto;
 }
+#pepsiman{
+    border: 10px;
+    border-style: double;
+    border-color: black;
+    text-align: center;
+}
