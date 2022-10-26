@@ -64,3 +64,8 @@ p{
 .container{
     text-align: center;
 }
+#ken{
+    height: auto;
+    text-align: center;
+    border-radius: 10px;
+}
